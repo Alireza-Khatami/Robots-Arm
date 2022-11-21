@@ -1,0 +1,11 @@
+﻿  MainApplication.cpp
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(29,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(44,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(45,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(71,52): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(72,53): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(73,52): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(166,36): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(175,40): warning C4305: 'argument': truncation from 'double' to 'float'
+L:\glut and opnegl  graphics  assignment and practice\Graphics 1 Assignment\Project1\MainApplication.cpp(180,38): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
